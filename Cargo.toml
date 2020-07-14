@@ -1,0 +1,9 @@
+[package]
+name = "enum_ch6-2_onlineclass"
+version = "0.1.0"
+authors = ["alifya53 <alifyahussian53@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
