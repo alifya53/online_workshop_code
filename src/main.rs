@@ -1,3 +1,18 @@
+// ----------------------Match Control Flow------------------
+// -------------Basic Pattern matching Example ------------
+// fn main(){
+// let pm = "Nawaz Sharif";
+//     match pm {
+//        "Nawaz Sharif" => println!("Mujhe kyu nikala?"),
+//        "Asif Zardari" => println!("Mei inko rulaonga!"),
+//        "Bilawal Bhutto" => println!("Jab Barish ata hai ! toh pani ata hai"),
+//        _ => println!("Tabdeli ayi hai!"),
+//     }
+// }
+
+
+
+// Enum Example with match control flow  -----------------//
 enum Days{
     Sunday,
     Monday,
